@@ -1,6 +1,4 @@
-
 #general 
-
 /.phpunit.cache
 /public/build
 /public/hot
@@ -16,7 +14,6 @@ yarn-error.log
 /.vscode
 
 # dot files
-
 .env
 .env.backup
 .env.example
@@ -27,47 +24,32 @@ yarn-error.log
 .gitattributes
 
 # Bootstrap dir
-
 /boostrap
 /bootstrap/ssr
 
 # composer files
-
 .composer.json
 .composer.lock
 
 #config files
-
 /config
 jsconfig.json
 package.json
 
-
 # node
-
 /node_modules
-
 
 #php
 phpunit.xml
 
-
-
-#config js files 
-
+#config js files
 tailwind.config.js
 postcss.config.js
 
-
-
 #public
-
 /public
 
-
-
 #resources 
-
 /resources/markdown
 /resources/js/Components
 /resources/js/Pages/API
@@ -77,31 +59,17 @@ postcss.config.js
 /resources/js/utils
 /resources/views
 
-
 #routes
-
 routes/console.php
 /storage
-
-
 
 #tests
 
 /tests
 
-
-
 #vendor
-
 /vendor
 
 
-
-# screenshots for the readme.md
-
-/ReadmeScreenshots
-
-
 # log files
-
 *.log
