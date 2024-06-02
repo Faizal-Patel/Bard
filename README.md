@@ -66,7 +66,7 @@ Below are some screenshots of the project before I developed this more modern ve
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Faizal-Patel/Bard
 ```
 
 Go to the project directory
