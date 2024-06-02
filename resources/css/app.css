@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}
+
+.bg-image {
+    background-image: url('/public/images/bard.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    height: 4rem; 
+}
+
+button {
+    height: 2.5rem; 
+}
+
+svg {
+    display: block;
+    height: 30px;
+    width: 30px;  
+}
+
+svg path {
+    stroke: currentColor;
+}
